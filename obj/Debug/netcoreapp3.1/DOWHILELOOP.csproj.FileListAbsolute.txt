@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/DOWHILELOOP/bin/Debug/netcoreapp3.1/DOWHILELOOP.deps.json
+/Users/michaelkhanda/Desktop/DOWHILELOOP/bin/Debug/netcoreapp3.1/DOWHILELOOP.runtimeconfig.json
+/Users/michaelkhanda/Desktop/DOWHILELOOP/bin/Debug/netcoreapp3.1/DOWHILELOOP.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/DOWHILELOOP/bin/Debug/netcoreapp3.1/DOWHILELOOP.dll
+/Users/michaelkhanda/Desktop/DOWHILELOOP/bin/Debug/netcoreapp3.1/DOWHILELOOP.pdb
+/Users/michaelkhanda/Desktop/DOWHILELOOP/obj/Debug/netcoreapp3.1/DOWHILELOOP.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/DOWHILELOOP/obj/Debug/netcoreapp3.1/DOWHILELOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/DOWHILELOOP/obj/Debug/netcoreapp3.1/DOWHILELOOP.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/DOWHILELOOP/obj/Debug/netcoreapp3.1/DOWHILELOOP.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/DOWHILELOOP/obj/Debug/netcoreapp3.1/DOWHILELOOP.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/DOWHILELOOP/obj/Debug/netcoreapp3.1/DOWHILELOOP.dll
+/Users/michaelkhanda/Desktop/DOWHILELOOP/obj/Debug/netcoreapp3.1/DOWHILELOOP.pdb
+/Users/michaelkhanda/Desktop/DOWHILELOOP/obj/Debug/netcoreapp3.1/DOWHILELOOP.genruntimeconfig.cache
